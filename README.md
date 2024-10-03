@@ -1,3 +1,2 @@
 # verbose-happiness
-#Fields and Dispersions Code for generating figures
-#Library of Analytical Field Models Complete library of functions used for calculating plasmonic fields
+Code for plotting the dispersions and fields of plasmonic modes. Solves for dispersion for given energy for any 2-, 3-, and 4-layer stacks and plot the resulting electric fields. 
